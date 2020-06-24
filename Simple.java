@@ -2,6 +2,6 @@ public class Simple{
 public static void main(String args[]){
 for(int i=0;i<10;i++)
 {
-System.out.println("hello javatpoint "+i);
+System.out.println("hello sonali "+i);
 }
 }}
